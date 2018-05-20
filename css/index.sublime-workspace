@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"v",
+				"v"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Indentation: Convert to Spaces"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/benja/Desktop/BIM/sass/_base.scss",
+		"/C/Users/benja/Desktop/portafolio/index.html",
+		"/C/Users/benja/Desktop/BIM/index.html",
+		"/C/Users/benja/Desktop/BIM/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/BIM/sass/main.scss",
+		"/C/Users/benja/Desktop/BIM/sass/_variable.scss",
+		"/C/Users/benja/Desktop/portafolio/sass/_base.scss",
+		"/C/Users/benja/Desktop/BIM/js/main.js",
+		"/C/Users/benja/Desktop/BIM/css/main.css",
+		"/C/Users/benja/Desktop/portafolio/js/main.js",
+		"/C/Users/benja/Desktop/laboratoria/portafolio/js/main.js",
+		"/C/Users/benja/Desktop/htdocs/taller_php/primeros_pasos/primeros_pasos.php",
+		"/C/Users/benja/Desktop/laboratoria/portafolio/index.html",
+		"/C/Users/benja/Desktop/laboratoria/portafolio/sass/_base.scss",
+		"/C/Users/benja/Desktop/laboratoria/slider/js/main.js",
+		"/C/Users/benja/Desktop/laboratoria/slider/index.html",
+		"/C/Users/benja/Desktop/portafolio/sass/main.scss",
+		"/C/Users/benja/Desktop/portafolio/css/main.css",
+		"/C/Users/benja/Desktop/laboratoria/pratt_sass/index.html",
+		"/C/Users/benja/Desktop/portafolio/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/portafolio/sass/_variable.scss",
+		"/C/Users/benja/Desktop/portafolio/sass/_bases.scss",
+		"/C/Users/benja/Desktop/proyecto-wings/wings/js/main.js",
+		"/C/Users/benja/Desktop/proyecto-wings/wings/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/proyecto-wings/wings/sass/_variable.scss",
+		"/C/Users/benja/Desktop/proyecto-wings/wings/sass/main.scss",
+		"/C/Users/benja/Desktop/proyecto-wings/wings/sass/_base.scss",
+		"/C/Users/benja/Desktop/portafolio/sass/_variables.scss",
+		"/C/Users/benja/Desktop/portafolio/materialize/sass/materialize.scss",
+		"/C/Users/benja/Desktop/proyecto-wings/wings/index.html",
+		"/C/Users/benja/Desktop/proyecto wings/wings/js/main.js",
+		"/C/Users/benja/Desktop/proyecto wings/wings/blog.html",
+		"/C/Users/benja/Desktop/proyecto wings/wings/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/proyecto wings/wings/sass/_variable.scss",
+		"/C/Users/benja/Desktop/proyecto wings/wings/sass/_base.scss",
+		"/C/Users/benja/Desktop/proyecto wings/wings/sass/main.scss",
+		"/C/Users/benja/Desktop/proyecto wings/wings/index.html",
+		"/C/Users/benja/Desktop/proyecto wings/wings/index2.html",
+		"/C/Users/benja/Desktop/laboratoria/tasty-food/assets/js/cuenta.js",
+		"/C/Users/benja/Desktop/laboratoria/tasty-food/login.html",
+		"/C/Users/benja/Desktop/proyecto wings/wings/prism.js",
+		"/C/Users/benja/Desktop/proyecto wings/chatSocketAchex-gh-pages/chatSocketAchex.js",
+		"/C/Users/benja/Desktop/proyecto wings/chatSocketAchex-gh-pages/index.html",
+		"/C/Users/benja/Desktop/marce/pagina/assets/css/main.css",
+		"/C/Users/benja/Desktop/marce/pagina/index.html",
+		"/C/Users/benja/Desktop/laboratoria/labcar/index.html",
+		"/C/Users/benja/Desktop/laboratoria/portafolio2/js/main.js",
+		"/C/Users/benja/Desktop/laboratoria/portafolio2/sass/_variable.scss",
+		"/C/Users/benja/Desktop/laboratoria/portafolio2/sass/_base.scss",
+		"/C/Users/benja/Desktop/laboratoria/portafolio2/index.html",
+		"/C/Users/benja/Desktop/laboratoria/portafolio2/index2.html",
+		"/C/Users/benja/Desktop/laboratoria/labcar/assets/js/main.js",
+		"/C/Users/benja/Desktop/laboratoria/portafolio/index2.html",
+		"/C/Users/benja/Desktop/laboratoria/yape/index.html",
+		"/C/Users/benja/Desktop/laboratoria/yape/sass/main.scss",
+		"/C/Users/benja/Desktop/laboratoria/yape/sass/_variable.scss",
+		"/C/Users/benja/Desktop/laboratoria/yape/sass/_base.scss",
+		"/C/Users/benja/Desktop/laboratoria/yape/js/main.js",
+		"/C/Users/benja/Desktop/laboratoria/yape/js/datos.js",
+		"/C/Users/benja/Desktop/laboratoria/yape/js/package-lock.json",
+		"/C/Users/benja/Desktop/laboratoria/yape/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/laboratoria/yape/css/main.css",
+		"/C/Users/benja/AppData/Local/Temp/Rar$DIa0.173/index.js",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-sass/index.html",
+		"/C/Users/benja/Desktop/laboratoria/portafolio/sass/_variable.scss",
+		"/C/Users/benja/Desktop/laboratoria/slider/css/main.css",
+		"/C/Users/benja/Desktop/laboratoria/coder-girl-floating/assets/css/main.css",
+		"/C/Users/benja/Desktop/laboratoria/coder-girl-floating/assets/js/main.js",
+		"/C/Users/benja/Desktop/laboratoria/coder-girl-floating/index.html",
+		"/C/Users/benja/Desktop/laboratoria/tasty-food/assets/sass/_cuenta.scss",
+		"/C/Users/benja/Desktop/laboratoria/tasty-food/cuenta.html",
+		"/C/Users/benja/Desktop/laboratoria/tasty-food/assets/js/main.js",
+		"/C/Users/benja/Desktop/laboratoria/coder-girl-floating/assets/img/home.jpg",
+		"/C/Users/benja/Desktop/laboratoria/dobby-spa/index.html",
+		"/C/Users/benja/Desktop/laboratoria/portafolio/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/laboratoria/responsive-pratt/index.html",
+		"/C/Users/benja/Desktop/laboratoria/portafolio/css/main.css",
+		"/C/Users/benja/Desktop/laboratoria/portafolio/sass/main.scss",
+		"/C/Users/benja/Desktop/laboratoria/ejercicio4/assets/javascript.js",
+		"/C/Users/benja/Desktop/laboratoria/bunny-love/css/style.css",
+		"/C/Users/benja/Desktop/laboratoria/lab-studio/css/style.css",
+		"/C/Users/benja/Desktop/laboratoria/lab-studio/index.html",
+		"/C/Users/benja/Desktop/laboratoria/save-the-koala-vol2/index2.html",
+		"/C/Users/benja/Desktop/laboratoria/save-the-koala-vol2/css/estilo2.css",
+		"/C/Users/benja/Desktop/laboratoria/bunny-love/index.html",
+		"/C/Users/benja/Desktop/laboratoria/bunny-love/js/main.js",
+		"/C/Users/benja/Desktop/laboratoria/google-enunciado/index.html",
+		"/C/Users/benja/Desktop/laboratoria/app-love-flex/index.html",
+		"/C/Users/benja/Desktop/laboratoria/app-love-flex/css/main.css",
+		"/C/Users/benja/Desktop/laboratoria/google-enunciado/sass/main.scss",
+		"/C/Users/benja/Desktop/laboratoria/google-enunciado/sass/_variable.scss",
+		"/C/Users/benja/Desktop/laboratoria/google-enunciado/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/laboratoria/google-enunciado/sass/_base.scss",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-sass/sass/_base.scss",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-bem/assets/sass/_variable.scss",
+		"/C/Users/benja/Desktop/laboratoria/pratt_sass/sass/main.scss",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-bem/assets/sass/main.scss",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-bem/assets/css/main.css",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-bem/assets/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-bem/assets/sass/_base.scss",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-bem/index.html",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-sass/sass/main.scss",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-sass/sass/_variable.scss",
+		"/C/Users/benja/Desktop/bootstrap/planilla1/imagenes.html",
+		"/C/Users/benja/Desktop/laboratoria/guiado-sass2/sass/_base.scss",
+		"/C/Users/benja/Desktop/laboratoria/guiado-sass2/css/main.css",
+		"/C/Users/benja/Desktop/laboratoria/guiado-sass2/index.html",
+		"/C/Users/benja/Desktop/laboratoria/guiado-sass2/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/laboratoria/guiado-sass2/sass/_variable.scss",
+		"/C/Users/benja/Desktop/laboratoria/guiado-sass2/sass/main.scss",
+		"/C/Users/benja/Desktop/laboratoria/dobby-spa/sass/_base.scss",
+		"/C/Users/benja/Desktop/laboratoria/dobby-spa/sass/_variable.scss",
+		"/C/Users/benja/Desktop/laboratoria/dobby-spa/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/laboratoria/dobby-spa/sass/main.scss",
+		"/C/Users/benja/Desktop/laboratoria/dobby-spa/css/style.css",
+		"/C/Users/benja/Desktop/laboratoria/dobby-spa/js/main.js",
+		"/C/Users/benja/Desktop/laboratoria/pratt_sass/sass/_bases.scss",
+		"/C/Users/benja/Desktop/laboratoria/pratt_sass/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/laboratoria/lyft-flex/index.html",
+		"/C/Users/benja/Desktop/bootstrap/planilla1/barradenavegacion.html",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-sass/js/mainjava.js",
+		"/C/Users/benja/Desktop/laboratoria/lyft-flex/js/lyft.js",
+		"/C/Users/benja/Desktop/laboratoria/pratt_sass/sass/_variables.scss",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-sass/main.css",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-sass/sass/_mixin.scss",
+		"/C/Users/benja/Desktop/laboratoria/lyft-sprint-3/assets/js/main.js",
+		"/C/Users/benja/Desktop/bootstrap/planilla1/slideshow.html",
+		"/C/Users/benja/Desktop/laboratoria/portafolio-sass/js/main.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"& ",
+			"color_a",
+			"del",
+			"%;\n",
+			"65",
+			" </",
+			" .",
+			";\n",
+			"100",
+			"%;\t\t",
+			"';\n",
+			"\"></",
+			">\n",
+			";\n",
+			">     ",
+			"150",
+			"length",
+			"150px",
+			"right",
+			"wrap",
+			"50vh",
+			"giphy2",
+			"});\n",
+			"180px",
+			"250",
+			"\";\t\t",
+			"450px",
+			"\t\n",
+			";\n",
+			"right",
+			"top",
+			"590px",
+			";\n",
+			"\">\n",
+			"auto",
+			"arr = [1, 4, 3, 6, 5, 7, 2];\n       \n\ndocument.write(arr.sort());",
+			"fixed",
+			"%;\n",
+			"danger",
+			"stacked",
+			"\">\n",
+			"public"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
