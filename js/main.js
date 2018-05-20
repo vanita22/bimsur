@@ -1,3 +1,13 @@
+$(document).ready(function(){	
+	$(".nav-background").hide();
+
+	$(".menu").click(function(){
+		$(".nav-background").show();
+		$(".nav-background").stop();
+	});
+
+})
+
 var lastScrollTop = 0;
 window.addEventListener("scroll", function (){
 	var currentScroll = window.pageYOffset || document.body.scrollTop;
@@ -19,12 +29,3 @@ window.addEventListener("scroll", function (){
 		document.getElementById("body").classList.toggle("overflow-hidden");
 	});
 },false);
-
-$(document).ready(function(){
-	
-	$(".nav-background").hide();
-
-	$(".fas.fa-bars").click(function(){
-		$(".nav-background").show(5000);
-	});
-})

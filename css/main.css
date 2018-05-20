@@ -5879,17 +5879,15 @@ nav {
 
 @media only screen and (min-width: 810px) {
   .fas.fa-bars {
-    display: none !important; } }
+    display: none; } }
 .nav-background {
   margin-top: 50px;
   margin-left: 85%;
   width: 15%;
   height: 15vh;
   padding: 15px;
-  z-index: 1500;
-  display: table;
-  background-color: lightgrey;
   position: absolute;
+  background-color: lightgrey;
   color: black; }
 
 @media (max-width: 390px) {
