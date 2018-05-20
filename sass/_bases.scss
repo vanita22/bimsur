@@ -176,5 +176,55 @@ nav{
 	overflow: hidden;
 }
 
+/*PRINCIPAL*/
 
+.principal{
+	margin-top: 5%;
+}
+
+@media (max-width: 390px){
+	.principal{
+		margin-top: 80px;
+	}
+}
+
+@media (min-width: 391px) and (max-width: 480px){
+	.principal{
+		margin-top: 80px;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 690px){
+	.principal{
+		margin-top: 80px;
+	}
+}
+
+@media (min-width: 691px) and (max-width: 800px){
+	.principal{
+		margin-top: 80px;
+	}
+}
+
+/*SEGUNDA CAJA*/
+
+.box-1{
+	padding: 5%;
+	hr{
+		border: 1px solid black;
+	}
+	button{
+		background-color: transparent;
+		border: 2.5px solid black;
+		color: black;
+		font-weight: bold;
+		padding: 7px;
+		border-radius: 5px;
+		float: right;
+	}
+}
+
+.box-2{
+	padding: 5%;
+}
 

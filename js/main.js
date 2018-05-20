@@ -1,4 +1,7 @@
 $(document).ready(function(){	
+
+	/*MENU*/
+
 	$(".nav-background").hide();
 
 	$(".menu").click(function(){
@@ -6,7 +9,26 @@ $(document).ready(function(){
 		$(".nav-background").stop();
 	});
 
+	/*SEGUNDA CAJA*/
+	
+	$(".continuar").hide();
+	$("#volver").hide();
+
+	$("#presionar").click(function(){
+		$(".continuar").show(1000);
+		$("#volver").show();
+		$("#presionar").hide();
+	});
+
+	$("#volver").click(function(){
+		$(".continuar").hide();
+		$("#volver").hide();
+		$("#presionar").show();
+	});
+
 })
+
+/*MENU*/
 
 var lastScrollTop = 0;
 window.addEventListener("scroll", function (){
