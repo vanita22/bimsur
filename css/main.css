@@ -5959,4 +5959,29 @@ nav {
 .box-2 {
   padding: 5%; }
 
+/*TERCERA CAJA*/
+.tercera {
+  background-color: #2E86C1;
+  padding: 5%;
+  color: white; }
+  .tercera .fas.fa-cogs {
+    font-size: 800%; }
+  .tercera .fas.fa-hands-helping {
+    font-size: 800%; }
+  .tercera p {
+    text-align: justify; }
+  .tercera hr {
+    border: 1px solid black; }
+  .tercera button {
+    background-color: transparent;
+    border: 2.5px solid white;
+    color: white;
+    font-weight: bold;
+    padding: 7px;
+    border-radius: 5px;
+    float: right; }
+  .tercera i {
+    font-size: 12px;
+    color: white; }
+
 /*# sourceMappingURL=main.css.map */

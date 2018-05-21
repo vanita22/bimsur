@@ -26,6 +26,38 @@ $(document).ready(function(){
 		$("#presionar").show();
 	});
 
+	/*TERCERA CAJA*/
+	
+	$(".continuar-2").hide();
+	$("#volver-2").hide();
+
+	$("#presionar-2").click(function(){
+		$(".continuar-2").show(1000);
+		$("#volver-2").show();
+		$("#presionar-2").hide();
+	});
+
+	$("#volver-2").click(function(){
+		$(".continuar-2").hide();
+		$("#volver-2").hide();
+		$("#presionar-2").show();
+	});
+
+	$(".continuar-3").hide();
+	$("#volver-3").hide();
+
+	$("#presionar-3").click(function(){
+		$(".continuar-3").show(1000);
+		$("#volver-3").show();
+		$("#presionar-3").hide();
+	});
+
+	$("#volver-3").click(function(){
+		$(".continuar-3").hide();
+		$("#volver-3").hide();
+		$("#presionar-3").show();
+	});
+
 })
 
 /*MENU*/
