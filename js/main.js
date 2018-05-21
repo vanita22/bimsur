@@ -58,6 +58,36 @@ $(document).ready(function(){
 		$("#presionar-3").show();
 	});
 
+	$(".continuar-4").hide();
+	$("#volver-4").hide();
+
+	$("#presionar-4").click(function(){
+		$(".continuar-4").show(1000);
+		$("#volver-4").show();
+		$("#presionar-4").hide();
+	});
+
+	$("#volver-4").click(function(){
+		$(".continuar-4").hide();
+		$("#volver-4").hide();
+		$("#presionar-4").show();
+	});
+
+	$(".continuar-5").hide();
+	$("#volver-5").hide();
+
+	$("#presionar-5").click(function(){
+		$(".continuar-5").show(1000);
+		$("#volver-5").show();
+		$("#presionar-5").hide();
+	});
+
+	$("#volver-5").click(function(){
+		$(".continuar-5").hide();
+		$("#volver-5").hide();
+		$("#presionar-5").show();
+	});
+
 })
 
 /*MENU*/

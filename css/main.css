@@ -5947,6 +5947,9 @@ nav {
   padding: 5%; }
   .box-1 hr {
     border: 1px solid black; }
+  .box-1 p {
+    text-align: justify;
+    font-size: 18px; }
   .box-1 button {
     background-color: transparent;
     border: 2.5px solid black;
@@ -5969,9 +5972,10 @@ nav {
   .tercera .fas.fa-hands-helping {
     font-size: 800%; }
   .tercera p {
-    text-align: justify; }
+    text-align: justify;
+    font-size: 18px; }
   .tercera hr {
-    border: 1px solid black; }
+    border: 1px solid white; }
   .tercera button {
     background-color: transparent;
     border: 2.5px solid white;
@@ -5983,5 +5987,43 @@ nav {
   .tercera i {
     font-size: 12px;
     color: white; }
+
+/*CUARTA CAJA*/
+.cuarta {
+  background-color: black;
+  padding: 5%;
+  color: white; }
+  .cuarta hr {
+    border: 1px solid white; }
+  .cuarta p {
+    text-align: justify;
+    font-size: 18px; }
+
+/*QUINTA CAJA*/
+.quinta {
+  padding: 3%;
+  color: black; }
+  .quinta .fas.fa-paste {
+    font-size: 1000%;
+    margin-bottom: 5%;
+    margin-right: 5%; }
+  .quinta .fas.fa-users-cog {
+    font-size: 1000%;
+    margin-bottom: 5%; }
+  .quinta .servicio p {
+    text-align: left; }
+  .quinta hr {
+    border: 1px solid black; }
+  .quinta p {
+    text-align: justify;
+    font-size: 18px; }
+  .quinta button {
+    background-color: transparent;
+    border: 2.5px solid black;
+    color: black;
+    font-weight: bold;
+    padding: 7px;
+    border-radius: 5px;
+    float: right; }
 
 /*# sourceMappingURL=main.css.map */

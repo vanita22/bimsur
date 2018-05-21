@@ -213,6 +213,10 @@ nav{
 	hr{
 		border: 1px solid black;
 	}
+	p{
+		text-align: justify;
+		font-size: 18px;
+	}
 	button{
 		background-color: transparent;
 		border: 2.5px solid black;
@@ -242,9 +246,10 @@ nav{
 	}
 	p{
 		text-align: justify;
+		font-size: 18px;
 	}
 	hr{
-		border: 1px solid black;
+		border: 1px solid white;
 	}
 	button{
 		background-color: transparent;
@@ -258,5 +263,55 @@ nav{
 	i{
 		font-size: 12px;
 		color: white;
+	}
+}
+
+/*CUARTA CAJA*/
+
+.cuarta{
+	background-color: black;
+	padding: 5%;
+	color: white;
+	hr{
+		border: 1px solid white;
+	}
+	p{
+		text-align: justify;
+		font-size: 18px;
+	}
+}
+
+/*QUINTA CAJA*/
+
+.quinta{
+	padding: 3%;
+	color: black;
+	.fas.fa-paste{
+		font-size: 1000%;
+		margin-bottom: 5%;
+		margin-right: 5%;
+	}
+	.fas.fa-users-cog{
+		font-size: 1000%;
+		margin-bottom: 5%;
+	}
+	.servicio p{
+		text-align: left;
+	}
+	hr{
+		border: 1px solid black;
+	}
+	p{
+		text-align: justify;
+		font-size: 18px;
+	}
+	button{
+		background-color: transparent;
+		border: 2.5px solid black;
+		color: black;
+		font-weight: bold;
+		padding: 7px;
+		border-radius: 5px;
+		float: right;
 	}
 }
