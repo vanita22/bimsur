@@ -6026,4 +6026,126 @@ nav {
     border-radius: 5px;
     float: right; }
 
+/*SEXTA CAJA*/
+.sexta {
+  background-image: url(../sass/imagenes/fondo-2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  z-index: 0;
+  height: auto;
+  color: white;
+  padding: 7%; }
+  .sexta h4 {
+    text-align: justify; }
+  .sexta .box-3 {
+    border: 2.5px solid white;
+    padding: 3%;
+    height: 30vh; }
+  .sexta button {
+    background-color: transparent;
+    border: 2.5px solid white;
+    color: white;
+    font-weight: bold;
+    padding: 7px;
+    border-radius: 5px;
+    width: 25%;
+    margin-top: 2%; }
+  .sexta .modal-a {
+    background-color: black;
+    opacity: 0.9;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3000; }
+    .sexta .modal-a #miSlider {
+      margin-top: 20%; }
+  .sexta .modal-b {
+    background-color: black;
+    opacity: 0.9;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3000; }
+    .sexta .modal-b #miSlider2 {
+      margin-top: 20%; }
+  .sexta .modal-c {
+    background-color: black;
+    opacity: 0.9;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3000; }
+    .sexta .modal-c #miSlider3 {
+      margin-top: 20%; }
+  .sexta .modal-d {
+    background-color: black;
+    opacity: 0.9;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3000; }
+    .sexta .modal-d #miSlider4 {
+      margin-top: 20%; }
+  .sexta .modal-e {
+    background-color: black;
+    opacity: 0.9;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3000; }
+    .sexta .modal-e #miSlider5 {
+      margin-top: 20%; }
+
+/*@media (max-width: 330px){
+	.sexta{
+		height: 175vh;
+	}
+}
+
+@media (min-width: 331px) and (max-width: 480px){
+	.sexta{
+		height: 150vh;
+		padding: 3%;
+	}
+}
+
+@media (min-width: 391px) and (max-width: 480px){
+	.sexta{
+		height: 140vh;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 690px){
+	.sexta{
+		height: 90vh;
+		padding: 3%;
+	}
+}
+
+@media (min-width: 691px) and (max-width: 800px){
+	.sexta{
+		height: 90vh;
+		padding: 3%;
+	}
+}
+
+@media (min-width: 801px) and (max-width: 1460px){
+	.sexta{
+		height: 80vh;
+		padding: 3%;
+	}
+}*/
+
 /*# sourceMappingURL=main.css.map */
