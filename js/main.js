@@ -9,7 +9,7 @@ $(document).ready(function(){
 	});
 
 	$(".cerrar").click(function(){
-		$(".submenu").hide();
+		$(".submenu").fadeIn();
 	});
 
 	/*SEGUNDA CAJA*/

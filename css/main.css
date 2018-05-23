@@ -5862,13 +5862,14 @@ nav {
   margin-right: 20%;
   margin-top: 2%;
   text-decoration: none; }
+  .lista ul {
+    display: inline-flex;
+    list-style: none; }
   .lista a {
     margin-left: 165px;
     font-size: 20px;
     text-decoration: none;
     color: white; }
-  .lista a:hover {
-    font-size: 27px; }
 
 @media only screen and (max-width: 800px) {
   .lista {
