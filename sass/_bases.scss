@@ -112,51 +112,38 @@ nav{
 	}
 }
 
-.nav-background{
-	margin-top: 50px;
-	margin-left: 85%;
-	width: 15%;
-	height: 15vh;
-	padding: 15px;
-	position: absolute;
-	background-color: lightgrey;	
-	color: black;
-}
-
-
-@media (max-width: 390px){
-	.nav-background{
-		margin-top: 80px;
-		margin-left: 55%;
-		width: 45%;
-		height: auto;
+.submenu{
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	position: fixed;
+	background-color: white;	
+	color: black;	
+	z-index: 3000;
+	ul{
+		margin-top: 30%;
+		list-style: none;
+		li{
+			margin-top: 10%;			
+			a{
+				color: black;
+				font-size: 20px;
+				font-weight: bold;
+				text-decoration: none;
+			}
+		}
+		a:hover{
+			color: #2E86C1;
+		}
 	}
-}
-
-@media (min-width: 391px) and (max-width: 480px){
-	.nav-background{
-		margin-top: 80px;
-		margin-left: 55%;
-		width: 45%;
-		height: auto;
-	}
-}
-
-@media (min-width: 481px) and (max-width: 690px){
-	.nav-background{
-		margin-top: 80px;
-		margin-left: 55%;
-		width: 45%;
-		height: auto;
-	}
-}
-
-@media (min-width: 691px) and (max-width: 800px){
-	.nav-background{
-		margin-top: 80px;
-		margin-left: 55%;
-		width: 45%;
-		height: auto;
+	button{
+		background-color: transparent;
+		border: 2.5px solid black;
+		color: black;
+		font-weight: bold;
+		padding: 7px;
+		border-radius: 5px;
 	}
 }
 
@@ -348,107 +335,228 @@ nav{
 	}
 	.modal-a{
 		background-color: black;
-		opacity: 0.9;
+		opacity: 1;
 		position: fixed;
 		top: 0;
 		left: 0;
 		right: 0;
 		bottom: 0;
-		z-index: 3000;
-		#miSlider{
-			margin-top: 20%;
+		z-index: 3000;		
+		@media (max-width: 330px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 331px) and (max-width: 480px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 391px) and (max-width: 480px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 481px) and (max-width: 690px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 691px) and (max-width: 800px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 801px) and (max-width: 1460px){
+			#miSlider{
+				margin-top: 20%;
+			}
 		}
 	}
 	.modal-b{
 		background-color: black;
-		opacity: 0.9;
+		opacity: 1;
 		position: fixed;
 		top: 0;
 		left: 0;
 		right: 0;
 		bottom: 0;
 		z-index: 3000;
-		#miSlider2{
-			margin-top: 20%;
+		@media (max-width: 330px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 331px) and (max-width: 480px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 391px) and (max-width: 480px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 481px) and (max-width: 690px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 691px) and (max-width: 800px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 801px) and (max-width: 1460px){
+			#miSlider{
+				margin-top: 20%;
+			}
 		}		
 	}
 	.modal-c{
 		background-color: black;
-		opacity: 0.9;
+		opacity: 1;
 		position: fixed;
 		top: 0;
 		left: 0;
 		right: 0;
 		bottom: 0;
 		z-index: 3000;
-		#miSlider3{
-			margin-top: 20%;
+		@media (max-width: 330px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 331px) and (max-width: 480px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 391px) and (max-width: 480px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 481px) and (max-width: 690px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 691px) and (max-width: 800px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 801px) and (max-width: 1460px){
+			#miSlider{
+				margin-top: 20%;
+			}
 		}		
 	}
 	.modal-d{
 		background-color: black;
-		opacity: 0.9;
+		opacity: 1;
 		position: fixed;
 		top: 0;
 		left: 0;
 		right: 0;
 		bottom: 0;
 		z-index: 3000;
-		#miSlider4{
-			margin-top: 20%;
+		@media (max-width: 330px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 331px) and (max-width: 480px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 391px) and (max-width: 480px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 481px) and (max-width: 690px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 691px) and (max-width: 800px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 801px) and (max-width: 1460px){
+			#miSlider{
+				margin-top: 20%;
+			}
 		}		
 	}
 	.modal-e{
 		background-color: black;
-		opacity: 0.9;
+		opacity: 1;
 		position: fixed;
 		top: 0;
 		left: 0;
 		right: 0;
 		bottom: 0;
 		z-index: 3000;
-		#miSlider5{
-			margin-top: 20%;
+		@media (max-width: 330px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 331px) and (max-width: 480px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 391px) and (max-width: 480px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 481px) and (max-width: 690px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 691px) and (max-width: 800px){
+			#miSlider{
+				margin-top: 50%;
+			}
+		}
+
+		@media (min-width: 801px) and (max-width: 1460px){
+			#miSlider{
+				margin-top: 20%;
+			}
 		}		
 	}
 }
 
-/*@media (max-width: 330px){
-	.sexta{
-		height: 175vh;
-	}
-}
-
-@media (min-width: 331px) and (max-width: 480px){
-	.sexta{
-		height: 150vh;
-		padding: 3%;
-	}
-}
-
-@media (min-width: 391px) and (max-width: 480px){
-	.sexta{
-		height: 140vh;
-	}
-}
-
-@media (min-width: 481px) and (max-width: 690px){
-	.sexta{
-		height: 90vh;
-		padding: 3%;
-	}
-}
-
-@media (min-width: 691px) and (max-width: 800px){
-	.sexta{
-		height: 90vh;
-		padding: 3%;
-	}
-}
-
-@media (min-width: 801px) and (max-width: 1460px){
-	.sexta{
-		height: 80vh;
-		padding: 3%;
-	}
-}*/

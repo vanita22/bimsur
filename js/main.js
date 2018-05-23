@@ -2,11 +2,14 @@ $(document).ready(function(){
 
 	/*MENU*/
 
-	$(".nav-background").hide();
+	$(".submenu").hide();
 
-	$(".menu").click(function(){
-		$(".nav-background").show();
-		$(".nav-background").stop();
+	$(".logo").click(function(){
+		$(".submenu").fadeIn();
+	});
+
+	$(".cerrar").click(function(){
+		$(".submenu").hide();
 	});
 
 	/*SEGUNDA CAJA*/
